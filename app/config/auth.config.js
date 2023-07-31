@@ -1,0 +1,4 @@
+const jwt_generationkey =
+  "1bfdefa3c4ad3622aa8a5c7ac57bb76fc190635c44f8db72fba7bca56dc47437dff4c8bd8755b1484f6afe9c7006960cb1e5d4f1349af83d767c140d32f60be6";
+
+module.exports = jwt_generationkey;
